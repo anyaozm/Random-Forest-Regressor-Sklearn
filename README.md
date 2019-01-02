@@ -19,3 +19,16 @@ I originallt used a Feedforward Neural Network but the Random Forest Regressor h
 - [ ] Tensorflow
 - [ ] Math
 - [ ] Pandas
+
+
+## STEPS
+- [x] Import dependencies
+- [x] Load Training Features Data
+- [x] Turn data into a pandas data frame and Display
+- [x] Replace the strings in thal column with corresponding numbers
+- [x] Turn features into numpy arrays  
+- [x] Check shape
+- [x] Split the model 
+- [x] Define the Model
+- [x] Fit and train
+- [x] Let's Evaluate Our Model with the loss function and accuracy
